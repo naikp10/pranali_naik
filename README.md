@@ -1,5 +1,2 @@
-# pranali_naik
-
-Instagram clone app using flutter 
-it will work exactly as a instagram app 
-you can search people, follow and unfollow them you can add posts and stories just like instagram app
+School database management system in this website you can easily add, delete, update,search information about school database such as Teacher's information,students information,etc
+you can login and logout 
